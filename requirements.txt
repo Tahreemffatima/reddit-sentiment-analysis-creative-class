@@ -1,0 +1,6 @@
+altair
+scikit-learn
+matplotlib
+seaborn
+pandas
+vaderSentiment-3.3.2

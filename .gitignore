@@ -1,0 +1,73 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data Files (too large for GitHub)
+*.csv
+*.tsv
+*.zst
+*.parquet
+*.pickle
+*.pkl
+*.h5
+*.hdf5
+data/
+datasets/
+*.db
+*.sqlite
+
+# Model Files (too large)
+*.bin
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
+._*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Outputs (if you want to exclude generated plots/results)
+# outputs/
+# figures/
+# results/
