@@ -1,4 +1,4 @@
-# reddit-sentiment-analysis-creative-classab# Reddit Sentiment Analysis: Creative Class Response to Global Events
+# Reddit Sentiment Analysis: Creative Class Response to Global Events
 
 A quantitative analysis examining how the creative class responds to major global events through sentiment analysis and engagement dynamics on Reddit.
 
