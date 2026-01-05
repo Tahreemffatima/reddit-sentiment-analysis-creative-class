@@ -95,7 +95,7 @@ by Examining Discussions and Sentiments in Art-related Subreddits.
 ## 📧 Contact
 
 For questions or collaboration:
-- **Email**: tahreem22100115@gmail.com
+- **Email**: tahreem.ffatima@gmail.com
 
 ## 📄 License
 
